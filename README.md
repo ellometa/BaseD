@@ -1,3 +1,3 @@
 # BaseD
 You know what it is.
-Update
+This readme is the best one out there 😎.
